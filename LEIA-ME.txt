@@ -3,23 +3,27 @@ Professor: Lázaro Conjo
 Turma: B01
 
 COMO ABRIR
-1. Descarregue e extraia o ficheiro ZIP.
-2. Abra a pasta "gravidez_precoce_website".
-3. Abra o ficheiro index.html num navegador (Chrome, Firefox ou Edge).
+1. Extraia o ZIP completo.
+2. Abra a pasta Website_Gravidez_Precoce_B01_Organizado.
+3. Abra index.html num navegador (Chrome, Firefox ou Edge).
 
-FOTOGRAFIAS DO UTILIZADOR
-As quatro imagens enviadas pelo utilizador foram incluídas fisicamente no ZIP, na pasta:
-imagens/fotos_enviadas/
+ESTRUTURA DO PACOTE
+index.html                 Página principal do website
+estilos.css                Design responsivo
+script.js                  Menu de navegação
+LEIA-ME.txt                Instruções
+imagens/fotografias/       As quatro imagens enviadas
+imagens/*.svg              Ilustrações auxiliares
 
-Elas aparecem juntas na secção "Galeria de fotografias" do website. Por estarem guardadas dentro do pacote, a galeria funciona mesmo sem Internet.
+FOTOGRAFIAS INCLUÍDAS
+- foto-1-cartaz-escola.jpg
+- foto-2-cartaz-futuro.jpg
+- foto-3-estudantes.jpg
+- foto-4-infografia-prevencao.jpg
 
-CONTEÚDO
-- index.html: páginas, textos e galeria.
-- estilos.css: design responsivo.
-- script.js: menu para telemóveis.
-- imagens/: imagens ilustrativas e as quatro fotografias fornecidas.
+As quatro imagens aparecem na Galeria de fotografias e também são usadas no conteúdo. Estão guardadas dentro do ZIP e podem ser visualizadas sem Internet.
 
-Identificação:
+IDENTIFICAÇÃO
 Tema: Gravidez Precoce
 Professor: Lázaro Conjo
 Turma: B01
